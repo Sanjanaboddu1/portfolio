@@ -1,9 +1,42 @@
+/* General Reset */
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  color: #333;
 }
-h1 {
-    color: #333;
-    text-align: center;
+
+/* Header */
+.header {
+  background: linear-gradient(to right, #6a11cb, #2575fc);
+  text-align: center;
+  color: white;
+  padding: 20px;
+}
+.profile-photo {
+  width: 100px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+/* Section */
+section {
+  padding: 20px 40px;
+  border-bottom: 1px solid #ddd;
+}
+h2 {
+  color: #6a11cb;
+}
+.container {
+  max-width: 800px;
+  margin: auto;
+}
+
+/* Contact Section */
+.contact a {
+  color: #6a11cb;
+  text-decoration: none;
+}
+.contact a:hover {
+  text-decoration: underline;
 }
