@@ -10,11 +10,11 @@
   <!-- Header Section -->
   <header class="header">
     <div class="container">
-      <img src="assets/photo/profile.jpg" alt="Profile Photo" class="profile-photo" />
+      <img src="portfolio/assets/photo/profile.jpg" alt="Profile Photo" class="profile-photo" />
       <h1>Sanjana</h1>
       <h2>Aspiring Software Engineer</h2>
       <a href="https://www.linkedin.com/in/sanjana-boddu-b4a775309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">LinkedIn</a> | 
-      <a href="assets/resume.pdf" target="_blank">Download CV</a>
+      <a href="portfolio/assets/resume.pdf" target="_blank">Download CV</a>
     </div>
   </header>
 
@@ -33,19 +33,19 @@
   <h2>Certifications & Achievements</h2>
   <div class="certificates-gallery">
     <div class="certificate">
-      <img src="assets/certificate/certificate-aicte.jpg" alt="certificate aicte">
+      <img src="portfolio/assets/certificate/certificate-aicte.jpg" alt="certificate aicte">
       <p>Python Full Stack Developer Virtual Internship</p>
     </div>
     <div class="certificate">
-      <img src="assets/certificate/certificate-eduskills.jpg" alt="Certificate eduskills">
+      <img src="portfolio/assets/certificate/certificate-eduskills.jpg" alt="Certificate eduskills">
       <p>python full stack course completion certificate</p>
     </div>
     <div class="certificate">
-      <img src="assets/certificate/certificate-forage.jpg" alt="Certificate forage">
+      <img src="portfolio/assets/certificate/certificate-forage.jpg" alt="Certificate forage">
       <p>Data Visualisation course certificate</p>
     </div>
     <div class="certificate">
-      <img src="assets/certificate/certificate-udemy.jpg" alt="Certificate udemy">
+      <img src="portfolio/assets/certificate/certificate-udemy.jpg" alt="Certificate udemy">
       <p>udemy python course certificate</p>
     </div>
 </section>
