@@ -10,7 +10,7 @@
   <!-- Header Section -->
   <header class="header">
     <div class="container">
-      <img src="portfolio/assets/photo/profile.jpg" alt="Profile Photo" class="profile-photo" />
+      <img src="portfolio/assets/photo/profile.JPG" alt="Profile Photo" class="profile-photo" />
       <h1>Sanjana</h1>
       <h2>Aspiring Software Engineer</h2>
       <a href="https://www.linkedin.com/in/sanjana-boddu-b4a775309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">LinkedIn</a> | 
